@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=98F4D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://www.github.com/opendevsrc/opendevsrc/blob/main/images/wave.gif" width="60px">
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=98F4D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://github.com/opendevsrc/opendevsrc/blob/main/images/wave.gif" width="100px" height="100px"/>
+
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> A little bit about me:
 📄 &nbsp;I'm a software developer, from Brazil.\
