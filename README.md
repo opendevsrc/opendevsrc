@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=BABAAB&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> A little bit about me:
 📄 &nbsp;I'm a software developer, from Bazil.\
 🌱 &nbsp;I'm on track with learning more about Java, C and Software Architecture.\
@@ -11,14 +12,8 @@
 ![](https://img.shields.io/static/v1?style=flat-square&message=GNU/Linux&logo=linux&labelColor=black&color=darkred&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?style=flat-square&message=Git&logo=git&labelColor=black&color=red&logoColor=red&label=%20)
 ![](https://img.shields.io/static/v1?style=flat-square&message=Neovim&logo=neovim&labelColor=black&color=darkgreen&logoColor=darkgreen&label=%20)
-![](https://img.shields.io/static/v1?style=flat-square&message=PowerShell&logo=powershell&labelColor=black&color=lightblue&logoColor=white&label=%20)\
-
-<img src='https://github.com/opendevsrc/opendevsrc/images/java.svg' width='20'/>
-<img src='https://github.com/opendevsrc/opendevsrc/images/c-original.svg' width='20'/>
-<img src='https://github.com/opendevsrc/opendevsrc/images/cpp.svg' width='20'/>
-<img src='https://github.com/opendevsrc/opendevsrc/images/python.svg' width='20'/>
-<img src='https://github.com/opendevsrc/opendevsrc/images/php.svg' width='20'/>
-<img src='https://github.com/opendevsrc/opendevsrc/images/js.svg' width='20'/>
+![](https://img.shields.io/static/v1?style=flat-square&message=PowerShell&logo=powershell&labelColor=black&color=lightblue&logoColor=white&label=%20)
+<img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/java.svg' width='30'/> <img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/c-original.svg' width='30'/> <img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/cpp.svg' width='30'/> <img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/python.svg' width='30'/> <img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/php.svg' width='30'/> <img src='https://github.com/opendevsrc/opendevsrc/blob/main/images/js.svg' width='30'/>
 
 ---
 ### <img src='https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png' width='25' /> My Github Stats:
