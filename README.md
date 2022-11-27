@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=BABAAB&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=98F4D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://www.github.com/opendevsrc/opendevsrc/blob/main/images/wave.gif" width="60px">
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> A little bit about me:
 📄 &nbsp;I'm a software developer, from Brazil.\
@@ -17,13 +17,13 @@
 
 ---
 ### <img src='https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png' width='25' /> My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opendevsrc&layout=compact&show_icons=true&bg_color=00000000)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=opendevsrc&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opendevsrc&layout=compact&show_icons=true&icon_color=98F4D7&text_color=e0fcf8&title_color=58fccd&bg_color=00000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=opendevsrc&theme=dark-smoky)](https://git.io/streak-stats)
 
 ---
 
-<p align="center"> 
-  Visitors count:<br>
+<p align="center" > 
+  Visitors count<br>
   </br><img src="https://profile-counter.glitch.me/opendevsrc/count.svg" />
 </p>
 
