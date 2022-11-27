@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=35&duration=4000&pause=1000&color=BABAAB&vCenter=true&width=435&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> A little bit about me:
-📄 &nbsp;I'm a software developer, from Bazil.\
+📄 &nbsp;I'm a software developer, from Brazil.\
 🌱 &nbsp;I'm on track with learning more about Java, C and Software Architecture.\
 🤔 &nbsp;I’m looking for help with Data Structures and Algorithms.\
 💬 &nbsp;Ask me about anything, I am happy to help!\
