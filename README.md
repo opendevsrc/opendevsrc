@@ -28,8 +28,6 @@
   </br><img src="https://profile-counter.glitch.me/opendevsrc/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%">
-
 <p align="center">
   <a href="https://twitter.com/opendevsrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="opendevsrc" height="30" width="30" /></a>&nbsp;
   <a href="https://linkedin.com/in/thiagosrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagosrc" height="30" width="30" /></a>&nbsp;
