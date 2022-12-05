@@ -31,10 +31,13 @@
 ---
 
 <h1 align="center">
-  <img src='https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png' width='70' /><br>My Github Stats<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=opendevsrc&layout=compact&show_icons=true&icon_color=98F4D7&text_color=e0fcf8&title_color=58fccd&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opendevsrc&theme=dark-smoky" /><br<br>
+  <img src='https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png' width='70' /><br>My Github Stats
 </h1>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=opendevsrc&layout=compact&show_icons=true&icon_color=98F4D7&text_color=e0fcf8&title_color=58fccd&bg_color=00000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=opendevsrc&theme=dark-smoky" /><br<br>
 
 <br>
 
