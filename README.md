@@ -18,7 +18,8 @@
 💬 &emsp;Ask me about anything, I am happy to help!\
 ✍️ &emsp;In my free time, I like to play chess at <a href="https://lichess.org/@/FreeAsFreedom" target="blank">Lichess</a>, practice my English and sketch some drawings.\
 🌍 &emsp;Looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world!\
-✉️ &emsp;You can drop me an email at opendevsrc@hotmail.com with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
+✉️ &emsp;You can drop me an email at opendevsrc@hotmail.com with subject containing "GitHub: ..."!\
+&emsp;&emsp;&ensp;It will be a pleasure to talk with you!.
 
 <br>
 
