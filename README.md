@@ -16,7 +16,7 @@
 🌱 &emsp;I'm on track with learning more about Java, C and Software Architecture.\
 🤔 &emsp;I’m looking for help with Data Structures and Algorithms.\
 💬 &emsp;Ask me about anything, I am happy to help!\
-✍️ &emsp;In my free time, I like to play chess at <a href="https://lichess.org/@/FreeAsFreedom" target="blank">Lichess</a>, practice my English and sketch some drawings.\
+✍️ &emsp;In my free time, I like to play chess at <a href="https://lichess.org/@/Bare_Metal" target="blank">Lichess</a>, practice my English and sketch some drawings.\
 🌍 &emsp;Looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world!\
 ✉️ &emsp;You can drop me an email at opendevsrc@hotmail.com with subject containing "GitHub: ..."!\
 &emsp;&emsp;&ensp;It will be a pleasure to talk with you!.
