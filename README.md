@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous&size=45&duration=2000&pause=1000&color=30f4b6&vCenter=true&width=500&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!" /> &emsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous&size=45&duration=2000&pause=1000&color=3cd9d5&vCenter=true&width=500&lines=Hi+there%2C+I'm+Thiago!;Nice+to+meet+you!" /> &emsp;
   <img src="https://github.com/opendevsrc/opendevsrc/blob/main/images/wave.gif" width="150px" height="150px" />
 </p>
 
@@ -34,8 +34,8 @@
 <h1 align="center">
   <img src='https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png' width='70' /><br>My Github Stats
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=opendevsrc&layout=compact&show_icons=true&icon_color=98F4D7&text_color=e0fcf8&title_color=58fccd&bg_color=00000000" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=opendevsrc&theme=dark-smoky" /><br<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opendevsrc&show_icons=true&locale=en&layout=compact&line_height=20&title_color=3cd9d5&icon_color=3cd9d5&text_color=D3D3D3&bg_color=0a0a0a" width="490" />
 </h1>
 
 <br>
